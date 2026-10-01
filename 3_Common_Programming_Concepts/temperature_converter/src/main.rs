@@ -5,6 +5,7 @@ fn main() {
         println!("C - F Converter");
         println!("1 - To convert celsius to fahrenheit");
         println!("2 - To convert fahrenheit to celsius");
+        println!("0 - To exit");
         let mut user_input = String::new();
         io::stdin()
             .read_line(&mut user_input)
@@ -39,7 +40,7 @@ fn main() {
                 Err(_) => continue,
             };
             let celsius = (user_input-32.0)*5.0/9.0;
-            println!("{user_input}C = {celsius}C");
+            println!("{user_input}F = {celsius}C");
         } else if user_input == 0 {
             break
         } else {
