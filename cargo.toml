@@ -3,6 +3,7 @@ members = [
     "3_Common_Programming_Concepts/fibonacci_number",
     "3_Common_Programming_Concepts/temperature_converter",
     "3_Common_Programming_Concepts/data_types",
-    3_Common_Programming_Concepts/variables_and_mutability"
+    "3_Common_Programming_Concepts/variables_and_mutability",
+    "5_Structs/example_program"
 ]
 resolver = "3"
