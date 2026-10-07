@@ -4,6 +4,6 @@ members = [
     "3_Common_Programming_Concepts/temperature_converter",
     "3_Common_Programming_Concepts/data_types",
     "3_Common_Programming_Concepts/variables_and_mutability",
-    "5_Structs/example_program"
-]
+    "5_Structs/example_program",
+    "7_Packages_Crates_and_Modules/modules", "7_Packages_Crates_and_Modules/restaurant", "8_Common_Collections/task1", "8_Common_Collections/task2"]
 resolver = "3"

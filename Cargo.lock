@@ -15,6 +15,22 @@ name = "fibonacci_number"
 version = "0.1.0"
 
 [[package]]
+name = "modules"
+version = "0.1.0"
+
+[[package]]
+name = "restaurant"
+version = "0.1.0"
+
+[[package]]
+name = "task1"
+version = "0.1.0"
+
+[[package]]
+name = "task2"
+version = "0.1.0"
+
+[[package]]
 name = "temperature_converter"
 version = "0.1.0"
 
