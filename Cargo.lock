@@ -19,7 +19,15 @@ name = "modules"
 version = "0.1.0"
 
 [[package]]
+name = "panic"
+version = "0.1.0"
+
+[[package]]
 name = "restaurant"
+version = "0.1.0"
+
+[[package]]
+name = "result"
 version = "0.1.0"
 
 [[package]]
@@ -28,6 +36,10 @@ version = "0.1.0"
 
 [[package]]
 name = "task2"
+version = "0.1.0"
+
+[[package]]
+name = "task3"
 version = "0.1.0"
 
 [[package]]
